@@ -3,9 +3,12 @@
 
 NeuroPlay es una plataforma de rehabilitación infantil que convierte la interacción con juegos físicos en datos útiles para el seguimiento terapéutico. Una consola basada en ESP32 ejecuta actividades lúdicas, registra el resultado de cada partida y envía las métricas a la nube. El terapeuta puede consultar esas sesiones en un dashboard web con indicadores, historial y gráficos en tiempo real.
 
-![Terapeuta acompañando una actividad digital](https://lh3.googleusercontent.com/aida-public/AB6AXuCbvS_y9QIIXxXZAxcFBLQls-HKGwkspoWlNEtHgm5qV0Ov3RsXF7RDGCQFb6YfM7rxVCbqocNePVX5Oo8mpZI6ci79iDK308BCrvr3hg-axiwueGC_8gewWQAaEhGIYJADlBibwmJF010FehI1LW6WUf8gvKhtk1xFR92DgbhE4UixseDNZflIWr37i-FYNJsl-K8iroz49B9BZmsE0wz9t57VoNfzhICd02wD3IAQAVp4041ynrqpNVnUGgPybKTk0ASGZtz0AXf6)
+#  Diagrama de conexiones 
+![Arcade Terapéutico](https://github.com/EDCHC1234/Arcade-Terap-utico/blob/main/Captura%20de%20pantalla%202026-07-05%20231557.png)
 
-![Arcade terapéutico utilizado en una sesión](https://lh3.googleusercontent.com/aida-public/AB6AXuDbvE7YvE60uwymmh4EHNiUmXWDsgHYxdRsYHKxs6hv_sSaXq1iGWZZmDoeh0kKeNEBzEezjae1eiUX1FEfgsiivvvcvg4YSaOPbjVrf0uB4A7OTJn9Fj0SZpc1M_gXNs6HvMS_xcdLPaja3od_iWJeQTWZSHR7mAxiBVFT6EdPH53U-r4IfxyPb6Gij7LK4J1VN_3IVVw7O4suzGTrpDwuC0bGju7a8tejNi0VXqalHjmDreJaielotKZsB8Is8G14b50xsraZLOe1)
+## 🎥 Demostración
+
+[![Ver video(images/video_portada.png)]](https://youtu.be/3NGd98oM3Ps)
 
 ## Video del resultado final
 
